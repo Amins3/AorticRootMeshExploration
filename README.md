@@ -1,0 +1,1 @@
+These notebooks were used to understand how aortic root shape variation might change based on the specific population being analyzed. We looked at patients with bicuspid aortic valves and patients with normal/anuerismal tricuspid aortic valves and aggregated medial models using generalized Procrustes analysis and PCA. 
